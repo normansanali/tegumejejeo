@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tegumejejeo.pages.dev/sitemap.xml
